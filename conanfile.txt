@@ -1,0 +1,6 @@
+[requires]
+caf/0.15.2@sourcedelica/testing
+
+[generators]
+cmake
+
